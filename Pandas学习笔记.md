@@ -209,7 +209,7 @@ s = pd.Series(data = [100, 'a', {'dic1':5}],
               name = 'my_name')
 s.values
 s.index
-s.dtype
+s.dtypes
 s.name
 s.shape # 获取序列长度
 ```
